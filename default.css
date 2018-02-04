@@ -150,6 +150,15 @@ ul li {
 	padding-left: 10px;
 }
 
+#box #date {
+	color: var(--navi);
+	font-size: 110%;
+	margin-top: 5px;
+	margin-bottom: -5px;
+	padding: 5px;
+	padding-left: 10px;
+}
+
 #box #centerImage {
 	padding: 10px;
 	text-align: center;
